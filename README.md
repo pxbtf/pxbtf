@@ -2,7 +2,7 @@
 
 -  I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Vue/Node.
+- :sunflower: Ask me about anything related to Vue/Node.
 - 📫 How to reach me: pxiou1997@163.com
 
 ![](https://github-readme-stats.vercel.app/api?username=pxbtf&show_icons=true&theme=transparent)
