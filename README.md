@@ -1,9 +1,9 @@
 ### Hi there 👋,I'm panxin.
 
-- :palm_tree:I’m currently working on something cool.
+- :palm_tree: I’m currently working on something cool.
 - :four_leaf_clover: I’m currently learning Everything I like.
 - :sunflower: Ask me about anything related to Vue/Node.
-- :hatched_chick:I enjoy basketball photography and reading.
+- :cactus: I enjoy basketball photography and reading.
 - :paw_prints: How to reach me: pxiou1997@163.com
 
 ![](https://github-readme-stats.vercel.app/api?username=pxbtf&show_icons=true&theme=tokyonight)
