@@ -5,7 +5,7 @@
 - :sunflower: Ask me about anything related to Vue/Node.
 - :paw_prints: How to reach me: pxiou1997@163.com
 
-![](https://github-readme-stats.vercel.app/api?username=pxbtf&show_icons=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=pxbtf&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxbtf&layout=compact&theme=tokyonight)
 
