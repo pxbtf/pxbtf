@@ -9,6 +9,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxbtf&layout=compact&theme=tokyonight)
 
+
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=pxbtf" /> </div>
 <!---
 pxbtf/pxbtf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
