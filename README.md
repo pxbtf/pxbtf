@@ -5,9 +5,9 @@
 - 💬 Ask me about anything related to Vue/Node.
 - 📫 How to reach me: pxiou1997@163.com
 
-![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=pxbtf&show_icons=true&theme=transparent)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.mepxbtf/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 
 <!---
