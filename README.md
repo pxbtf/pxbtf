@@ -5,10 +5,11 @@
 - :sunflower: Ask me about anything related to Vue/Node.
 - :cactus: I enjoy basketball photography and reading.
 - :paw_prints: How to reach me: pxiou1997@163.com
-- ![Visitor Count](https://profile-counter.glitch.me/pxbtf/count.svg)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=pxbtf&show_icons=true&theme=tokyonight)
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/pxbtf/count.svg) visiter.Thank you!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxbtf&layout=compact&theme=tokyonight)
 
